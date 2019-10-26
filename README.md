@@ -3,7 +3,7 @@
 A second assignment on Advanced Data Analytics course in University of Technology Sydney.
 It is a two man project, with my colleague, Joshua Gavin Valerie.
 
-This repository include a jupyter notebook file of the churn analytics including the explanations, and the dataset used.
+This repository include a jupyter notebook file of the churn analytics including the explanations (Churn.ipynb), and the dataset used (Churn.csv).
 
 
 To give the project a background, we acquire a dataset from a telecommunication company, which includes a churn variable, the churn variable.
